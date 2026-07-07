@@ -1,0 +1,27 @@
+{
+  "identifier" : "Griplog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "griplog_pro",
+      "localizations" : [
+        {
+          "description" : "Unlocks Left/right trend comparison chart",
+          "displayName" : "Griplog Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.gripstrength.pro",
+      "referenceName" : "Griplog Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
